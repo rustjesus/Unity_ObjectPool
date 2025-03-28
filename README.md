@@ -24,3 +24,5 @@ EXAMPLE:
         }
 
     }
+
+Make sure to set the object (muzzleFlash in this instance) to gameObject.SetActive(False);, instead of Destroy(gameObject);
