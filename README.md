@@ -1,5 +1,6 @@
 EXAMPLE:
     //reference the pool
+    
     private ObjectPool muzzleFlashPool;
     private void Awake()
     {
